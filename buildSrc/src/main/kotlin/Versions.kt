@@ -23,5 +23,5 @@
  */
 
 object Versions {
-    const val INDRA = "3.1.3"
+    const val INDRA = "4.1.0"
 }
